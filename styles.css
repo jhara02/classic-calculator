@@ -1,0 +1,78 @@
+
+body{
+    height: 100vh;
+    max-width: 600em;
+    text-align: center;
+}
+
+.main{ 
+    border: 2px;
+    box-shadow:2px 8px 8px #DAEAF1;
+    border:1rem inset;
+    border-color: #16213E;
+    border-radius: 8rem;
+    background-color: #0F3460;
+    width:30em;
+    height:35em; 
+    text-align: center;
+   
+}
+
+h1{
+    margin-top: 5rem;
+    font-family:"EB Garamond",cursive;
+    font-weight: bolder;
+    font-stretch:expanded;
+    
+}
+
+.answ{
+    height:2rem;
+    width:22rem;
+    font-family: "EB Garamond", serif;
+    font-size: 1.5rem;
+    border:solid;
+    border-color: #16213E;
+    border-radius: 1rem;
+
+}
+
+.btn-c{
+    border:px solid;
+    filter:drop-shadow(2px 2px 2px #FFC090);
+    border-radius: 1.5rem;
+    border-color: #16213E ;
+    justify-content: center;
+    background-color:#0F3460;
+    font-family: "EB Garamond", serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width:15em;
+    height:2em;
+    transition: all 0.3s ease;
+}
+
+.btn-c:hover{
+    background:#DDDDDD;  
+}
+
+.btn{
+    border:px solid;
+    filter:drop-shadow(1px 1px 1px #FFC090);
+    border-radius: 1.5rem;
+    border-color: #16213E ;
+    justify-content: center;
+    background-color:#0F3460;
+    font-family: "EB Garamond", serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width:5em;
+    height:2em;
+    transition: all 0.3s ease;
+   
+}
+
+.btn:hover{
+    background:#DDDDDD;
+    
+}
